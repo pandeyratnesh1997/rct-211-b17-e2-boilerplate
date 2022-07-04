@@ -7,6 +7,7 @@ function App() {
     <div data-cy="shoe-app">
       <Navbar />
       <MainRoutes />
+      Hello
     </div>
   );
 }
